@@ -8,7 +8,7 @@ var numero = 97;
 let texto2 = {};
 
 //Forma 3 - Cons (ES6)
-const q = "nuevo texto";
+const q = "NUEVA RAMITA y ahora con un nuevo cambio";
 
 //let y const funcionan en ámbito de bloque 
 //es decir, si se definen en un bloque no salen de su ámbito (lo que esté entre las llaves)
